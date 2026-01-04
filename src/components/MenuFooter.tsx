@@ -66,27 +66,7 @@ export const MenuFooter = () => {
             </ul>
           </div>
 
-          {/* Quick Links */}
-          <div className="space-y-4">
-            <h3 className="font-display text-xl font-semibold text-gold">Follow Us</h3>
-            <div className="flex gap-4">
-              <a
-                href="#"
-                className="w-10 h-10 flex items-center justify-center rounded-full bg-cream/10 hover:bg-primary transition-colors duration-300"
-              >
-                <Facebook className="w-5 h-5" />
-              </a>
-              <a
-                href="#"
-                className="w-10 h-10 flex items-center justify-center rounded-full bg-cream/10 hover:bg-primary transition-colors duration-300"
-              >
-                <Instagram className="w-5 h-5" />
-              </a>
-            </div>
-            <p className="font-body text-xs text-cream/60">
-              Follow us on social media for updates and special offers!
-            </p>
-          </div>
+
         </div>
 
         <div className="mt-12 pt-6 border-t border-cream/20 text-center">

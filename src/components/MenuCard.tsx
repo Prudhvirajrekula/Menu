@@ -20,10 +20,10 @@ export const MenuCard = ({ item, index }: MenuCardProps) => {
           className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
           loading="lazy"
         />
-        
+
         {/* Overlay gradient */}
         <div className="absolute inset-0 bg-gradient-to-t from-foreground/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
-        
+
         {/* Badges */}
         <div className="absolute top-3 left-3 flex gap-2">
           {item.isPopular && (
@@ -58,9 +58,15 @@ export const MenuCard = ({ item, index }: MenuCardProps) => {
             ${item.price.toFixed(2)}
           </span>
         </div>
-        
+
         {item.description && (
-          <p className="text-sm text-muted-foreground line-clamp-2 font-body">
+          <p
+            className="
+              text-sm text-muted-foreground font-body
+              line-clamp-2 group-hover:line-clamp-none
+              transition-all duration-300
+            "
+          >
             {item.description}
           </p>
         )}

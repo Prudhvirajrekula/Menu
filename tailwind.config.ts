@@ -2,7 +2,12 @@ import type { Config } from "tailwindcss";
 
 export default {
   darkMode: ["class"],
-  content: ["./pages/**/*.{ts,tsx}", "./components/**/*.{ts,tsx}", "./app/**/*.{ts,tsx}", "./src/**/*.{ts,tsx}"],
+  content: [
+    "./pages/**/*.{ts,tsx}",
+    "./components/**/*.{ts,tsx}",
+    "./app/**/*.{ts,tsx}",
+    "./src/**/*.{ts,tsx}",
+  ],
   prefix: "",
   theme: {
     container: {
@@ -14,9 +19,9 @@ export default {
     },
     extend: {
       fontFamily: {
-        display: ['"Playfair Display"', 'serif'],
-        elegant: ['"Cormorant Garamond"', 'serif'],
-        body: ['"Montserrat"', 'sans-serif'],
+        display: ['"Playfair Display"', "serif"],
+        elegant: ['"Cormorant Garamond"', "serif"],
+        body: ['"Montserrat"', "sans-serif"],
       },
       colors: {
         border: "hsl(var(--border))",
@@ -113,5 +118,8 @@ export default {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [
+    require("tailwindcss-animate"),
+    require("@tailwindcss/line-clamp"), // ✅ ADDED
+  ],
 } satisfies Config;
