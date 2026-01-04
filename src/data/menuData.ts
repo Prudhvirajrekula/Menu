@@ -178,7 +178,7 @@ export const menuData: MenuSection[] = [
         name: "Paneer Manchurian",
         price: 14.49,
         description: "Golden-fried paneer cubes tossed in a tangy, spicy soy and garlic sauce.",
-        image: "https://orders.popskitchen.in/storage/2024/09/image-167.png",
+        image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/paneer-manchurian-recipe.jpg",
         isVeg: true,
       },
       {
