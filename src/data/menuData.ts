@@ -1263,9 +1263,9 @@ export const menuData: MenuSection[] = [
   },
 
   {
-    id: "rice-more",
-    title: "Rice & More",
-    subtitle: "Steamed rice, fried rice and more",
+    id: "rice-specials",
+    title: "Rice & Specials",
+    subtitle: "Rice dishes and Specialties",
     items: [
       {
         id: "bagara-rice-goat",
