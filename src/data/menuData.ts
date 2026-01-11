@@ -1182,7 +1182,7 @@ export const menuData: MenuSection[] = [
         name: "BPOT Special Boneless Chicken Biryani",
         price: 16.99,
         description: "House special biryani made with boneless chicken pieces",
-        image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/04/spl-bir-400x400.jpg",
+        image: "https://139384906.cdn6.editmysite.com/uploads/1/3/9/3/139384906/22KOQT26UHCN7ZX5KNGZISFI.jpeg",
         isSpicy: true,
       },
       {
@@ -1215,6 +1215,8 @@ export const menuData: MenuSection[] = [
         price: 15.99,
         description: "Flavorful biryani served with spicy roasted chicken",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/12/chicken-fry-piece-biryani-1-400x400.webp",
+        isSpicy: true,
+
       },
       {
         id: "vijayawada-chicken-biryani",
@@ -1265,7 +1267,7 @@ export const menuData: MenuSection[] = [
   {
     id: "rice-specials",
     title: "Rice & Specials",
-    subtitle: "Rice dishes and Specialties",
+    subtitle: "Rice dishes and New Specialties",
     items: [
       {
         id: "kodi-mamsam-palav",
@@ -1494,10 +1496,27 @@ export const menuData: MenuSection[] = [
     ],
   },
   {
-    id: "drinks",
-    title: "Drinks",
-    subtitle: "Refreshing beverages",
+    id: "drinks-tea",
+    title: "Drinks & Tea",
+    subtitle: "Refreshing beverages & traditional teas",
     items: [
+      {
+        id: "ginger-tea",
+        name: "Ginger Tea",
+        price: 1.99,
+        description: "Hot Indian-style tea brewed with fresh ginger.",
+        image: "https://www.sharmispassions.com/wp-content/uploads/2012/12/cardamom-tea4-500x500.jpg",
+        isVeg: true,
+      },
+
+      {
+        id: "cardamom-tea",
+        name: "Cardamom (Elaichi) Tea",
+        price: 1.99,
+        description: "Traditional Indian tea infused with aromatic cardamom.",
+        image: "https://www.sharmispassions.com/wp-content/uploads/2012/12/cardamom-tea4-500x500.jpg",
+        isVeg: true,
+      },
       {
         id: "sweet-lassi",
         name: "Sweet Lassi",
@@ -1564,7 +1583,7 @@ export const menuData: MenuSection[] = [
         name: "Canada Dry",
         price: 1.99,
         description: "Refreshing ginger ale soda",
-        image: "https://s7d1.scene7.com/is/image/kdrp/CD_Logo_GingerAle_4C_GoldTrim?$Dynamic-PublicURL-PNG$&wid=480&hei=480",
+        image: "https://cdn.shopify.com/s/files/1/0588/2701/4293/files/A4L_oQU6sa3GuAJiJH83nRNIfckd6bkvjAe-0BEohhZSlBbAPsXQVG4Yd0RBbT6l7qw4K5VpaNn2RPkSP2ps1lSk1l8B-s4AVVMwUhUmFLqugeplSNVMZazizIQZmjnA4T6jOz8Yf15b6w5gHfo9M45lYApn-b1ZNyqTeTVTBTD9wrrr4SdQpe.jpg?v=1729233320",
       },
       {
         id: "fresh-lime-soda",
