@@ -8,6 +8,31 @@ export const MenuHeader = () => {
     });
   };
 
+  const ThaliCallout = ({ className = "" }: { className?: string }) => (
+    <button
+      type="button"
+      onClick={scrollToThalis}
+      className={[
+        "text-left bg-primary-foreground/12 backdrop-blur-md border border-primary-foreground/15 rounded-xl px-4 py-3 shadow-md",
+        "hover:bg-primary-foreground/20 transition-colors",
+        className,
+      ].join(" ")}
+      aria-label="Scroll to Weekday Thali section"
+    >
+      <p className="text-[11px] uppercase tracking-wide font-medium text-primary-foreground/70">
+        Weekday Special
+      </p>
+
+      <p className="text-sm font-semibold text-primary-foreground mt-0.5">
+        Veg &amp; Non-Veg Thalis
+      </p>
+
+      <p className="text-xs text-primary-foreground/65 mt-1 italic">
+        11:30 AM – 2:30 PM
+      </p>
+    </button>
+  );
+
   return (
     <header className="relative bg-gradient-hero text-primary-foreground overflow-hidden">
       {/* Background pattern */}
@@ -18,25 +43,9 @@ export const MenuHeader = () => {
       <div className="absolute bottom-0 left-0 w-48 h-48 bg-secondary/30 rounded-full blur-2xl" />
 
       <div className="relative container mx-auto px-4 py-12 md:py-20">
-        {/* Weekday Thali Callout */}
+        {/* Desktop: Right-side callout */}
         <div className="absolute top-1/2 right-4 md:right-8 -translate-y-1/2 hidden lg:block">
-          <button
-            type="button"
-            onClick={scrollToThalis}
-            className="text-left bg-primary-foreground/12 backdrop-blur-md border border-primary-foreground/15 rounded-xl px-4 py-3 shadow-md max-w-[220px] hover:bg-primary-foreground/20 transition-colors"
-          >
-            <p className="text-[11px] uppercase tracking-wide font-medium text-primary-foreground/70">
-              Weekday Special
-            </p>
-
-            <p className="text-sm font-semibold text-primary-foreground mt-0.5">
-              Veg &amp; Non-Veg Thalis
-            </p>
-
-            <p className="text-xs text-primary-foreground/65 mt-1 italic">
-              11:30 AM – 2:30 PM
-            </p>
-          </button>
+          <ThaliCallout className="max-w-[220px]" />
         </div>
 
         <div className="text-center space-y-6">
@@ -57,6 +66,11 @@ export const MenuHeader = () => {
             <p className="font-elegant text-xl md:text-2xl text-primary-foreground/90 italic">
               Authentic Hyderabadi Cuisine
             </p>
+          </div>
+
+          {/* Mobile: Inline callout */}
+          <div className="flex justify-center lg:hidden">
+            <ThaliCallout className="w-full max-w-md" />
           </div>
 
           {/* Info badges */}
