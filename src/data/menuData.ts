@@ -1268,27 +1268,29 @@ export const menuData: MenuSection[] = [
     subtitle: "Rice dishes and Specialties",
     items: [
       {
-        id: "bagara-rice-goat",
-        name: "Bagara Rice Goat",
-        price: 17.99,
-        description: "Aromatic Hyderabadi rice served with goat curry",
-        image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-1-400x400.jpg",
+        id: "kodi-mamsam-palav",
+        name: "Kodi Mamsam Palav",
+        price: 15.49,
+        description: "Traditional Andhra-style palav cooked with tender chicken, aromatic spices, and fragrant rice.",
+        image: "https://i0.wp.com/theshaziablog.com/wp-content/uploads/2020/10/DSC06991-2.jpg?fit=800%2C533&ssl=1",
         isPopular: true,
       },
+
       {
-        id: "bagara-rice-chicken",
-        name: "Bagara Rice Chicken",
-        price: 15.99,
-        description: "Aromatic Hyderabadi rice served with chicken curry",
-        image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-2-400x400.jpg",
+        id: "mekha-mamsam-palav",
+        name: "Mekha Mamsam Palav",
+        price: 17.49,
+        description: "Flavorful palav made with slow-cooked goat meat, basmati rice, and rich Andhra spices.",
+        image: "https://myfoodstory.com/wp-content/uploads/2021/08/Mutton-Yakhni-Pulao-1.jpg",
+        isPopular: true,
       },
+
       {
-        id: "bagara-rice-veg",
-        name: "Bagara Rice Veg",
-        price: 13.99,
-        description: "Aromatic Hyderabadi rice served with vegetable curry",
-        image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-3-400x400.jpg",
-        isVeg: true,
+        id: "chicken-over-rice",
+        name: "Chicken Over Rice",
+        price: 11.99,
+        description: "Classic NYC-style chicken over rice with marinated, grilled chicken served on seasoned basmati rice, topped with fresh lettuce, tomato, pita bread and drizzled with signature white sauce and hot sauce.",
+        image: "https://www.hungrypaprikas.com/wp-content/uploads/2025/01/Halal-Cart-Chicken-2.jpg",
         isPopular: true,
       },
       {
@@ -1298,7 +1300,6 @@ export const menuData: MenuSection[] = [
         description: "Wok-tossed basmati rice with crunchy vegetables, soy sauce, and aromatic spices.",
         image: "https://nishkitchen.com/wp-content/uploads/2020/01/Chinese-Veg-Fried-Rice-1B.jpg",
         isVeg: true,
-        isPopular: true,
       },
       {
         id: "Egg-fried-rice",
@@ -1321,6 +1322,30 @@ export const menuData: MenuSection[] = [
         price: 15.49,
         description: "Fried rice cooked with succulent shrimp",
         image: "https://twoplaidaprons.com/wp-content/uploads/2022/05/shrimp-fried-rice-on-plate-thumbnail.jpg",
+      },
+      {
+        id: "bagara-rice-goat",
+        name: "Bagara Rice Goat",
+        price: 17.99,
+        description: "Aromatic Hyderabadi rice served with goat curry",
+        image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-1-400x400.jpg",
+        isPopular: true,
+      },
+      {
+        id: "bagara-rice-chicken",
+        name: "Bagara Rice Chicken",
+        price: 15.99,
+        description: "Aromatic Hyderabadi rice served with chicken curry",
+        image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-2-400x400.jpg",
+      },
+      {
+        id: "bagara-rice-veg",
+        name: "Bagara Rice Veg",
+        price: 13.99,
+        description: "Aromatic Hyderabadi rice served with vegetable curry",
+        image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-2-400x400.jpg",
+        isVeg: true,
+        isPopular: true,
       },
       {
         id: "spinach-rice",
@@ -1354,7 +1379,6 @@ export const menuData: MenuSection[] = [
         description: "Hyderabadi dum biryani rice flavored with traditional spices",
         image: "https://eatsbythebeach.com/wp-content/uploads/2019/06/Basic-Biryani-Rice-1-Eats-By-The-Beach.jpg",
         isVeg: true,
-        isSpicy: true,
       },
       {
         id: "plain-rice",
@@ -1371,8 +1395,8 @@ export const menuData: MenuSection[] = [
   // DESSERTS / DRINKS (KEEP)
   // =========================
   {
-    id: "desserts",
-    title: "Desserts",
+    id: "desserts pastries",
+    title: "Desserts & Pastries",
     subtitle: "Sweet endings",
     items: [
       {
@@ -1408,7 +1432,65 @@ export const menuData: MenuSection[] = [
         description: "Sweet betel leaf with fennel and nuts",
         image: "https://media.istockphoto.com/id/948832988/photo/banarasi-pan-betel-nut-garnished-with-all-indian-banarasi-ingredients-for-sale.jpg?s=612x612&w=0&k=20&c=dZVuZzXkeF_75Ck-jU7TNKjM_K7Js_w0s07yO1hu79Q=",
         isVeg: true,
+      },
+      {
+        id: "black-forest-pastry",
+        name: "Black Forest Pastry",
+        price: 3.99,
+        description: "Classic chocolate sponge layered with fresh cream and cherries.",
+        image: "https://modernomanbakery.com/wp-content/uploads/1649/22/Black-forest-Slice.png",
+        isVeg: true,
+        isPopular: true,
+      },
+
+      {
+        id: "mango-pastry",
+        name: "Mango Pastry",
+        price: 3.99,
+        description: "Soft sponge cake layered with mango cream and fresh mango flavor.",
+        image: "https://i.ytimg.com/vi/2kYgFhW7alw/maxresdefault.jpg",
+        isVeg: true,
+        isPopular: true,
+      },
+
+      {
+        id: "butterscotch-pastry",
+        name: "Butterscotch Pastry",
+        price: 3.99,
+        description: "Moist sponge cake layered with rich butterscotch cream and crunchy praline.",
+        image: "https://victoriajunction.in/wp-content/uploads/2023/08/Black-Forest-Pastry.jpg",
+        isVeg: true,
+      },
+
+      {
+        id: "chocolate-mousse-pastry",
+        name: "Chocolate Mousse Pastry",
+        price: 4.99,
+        description: "Light and airy chocolate mousse layered over soft chocolate sponge.",
+        image: "https://www.thehungrybites.com/wp-content/uploads/2016/11/easy-chocolate-mousse-cake-featured-500x500.jpg",
+        isVeg: true,
+      },
+
+      {
+        id: "pistachio-pastry",
+        name: "Pistachio Pastry",
+        price: 3.99,
+        description: "Delicate sponge layered with creamy pistachio filling and nutty flavor.",
+        image: "https://thesaltycooker.com/wp-content/uploads/2021/07/PistachioTiramisu-BLOG-scaled.jpg",
+        isVeg: true,
+        isPopular: true,
+      },
+
+      {
+        id: "chocolate-brownie-sundae",
+        name: "Chocolate Brownie Sundae",
+        price: 6.99,
+        description: "A warm, fudgy brownie topped with a single scoop of vanilla ice cream, finished with a chocolate syrup drizzle and a sprinkle of chocolate chips.",
+        image: "https://thumbs.dreamstime.com/b/homemade-double-chocolate-brownies-sundae-vanilla-ice-cream-top-double-chocolate-brownies-sundae-vanilla-ice-cream-152358954.jpg",
+        isVeg: true,
+        isPopular: true,
       }
+
     ],
   },
   {
