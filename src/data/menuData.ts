@@ -36,7 +36,7 @@ export const menuData: MenuSection[] = [
       {
         id: "hspl-goat-soup",
         name: "HSPL Goat Soup",
-        price: 7.99,
+        price: 6.99,
         description: "Traditional goat soup slow-cooked with aromatic spices",
         image: "https://www.sharmispassions.com/wp-content/uploads/2020/03/CountryChickenSoup1-500x500.png",
         isPopular: true,
@@ -44,7 +44,7 @@ export const menuData: MenuSection[] = [
       {
         id: "sweet-corn-veg-soup",
         name: "Sweet Corn Veg Soup",
-        price: 5.49,
+        price: 5.99,
         description: "Classic sweet corn soup with mixed vegetables",
         image: "https://www.mintsrecipes.com/wp-content/uploads/Sweet-Corn-Soup-Recipe-fg.jpg",
         isVeg: true,
@@ -68,7 +68,7 @@ export const menuData: MenuSection[] = [
       {
         id: "hot-sour-chicken-soup",
         name: "Hot & Sour Chicken Soup",
-        price: 5.99,
+        price: 6.49,
         description: "Spicy hot and sour soup with shredded chicken",
         image: "https://www.cookingcarnival.com/wp-content/uploads/2023/09/Hot-and-sour-soup-4.jpg",
         isSpicy: true,
@@ -88,7 +88,7 @@ export const menuData: MenuSection[] = [
       {
         id: "karampodi-gobi",
         name: "Karampodi Gobi",
-        price: 13.99,
+        price: 14.99,
         description: "Crispy cauliflower florets tossed in a spicy, flavorful roasted lentil and spice powder (karampodi).",
         image: "https://tb-static.uber.com/prod/image-proc/processed_images/836d6a20c214012642dd819b054802d0/70aa2a4db7f990373ca9c376323e3dea.jpeg",
         isVeg: true,
@@ -98,7 +98,7 @@ export const menuData: MenuSection[] = [
       {
         id: "gobi-65",
         name: "Gobi 65",
-        price: 13.99,
+        price: 14.99,
         description: "Crispy cauliflower florets marinated in spicy yogurt and tempered with curry leaves and green chillies.",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2023/06/gobi-65.jpg",
         isVeg: true,
@@ -123,7 +123,7 @@ export const menuData: MenuSection[] = [
       {
         id: "baby-corn-manchurian",
         name: "Baby Corn Manchurian",
-        price: 13.99,
+        price: 14.49,
         description: "Crispy baby corn florets tossed in a tangy ginger, garlic, and soy-based sauce.",
         image: "https://www.peddlermart.com/seller_sub_domain/item/item_img687506a36e3041752499875.jpg",
         isVeg: true,
@@ -131,7 +131,7 @@ export const menuData: MenuSection[] = [
       {
         id: "chilly-baby-corn",
         name: "Chilly Baby Corn",
-        price: 13.99,
+        price: 14.49,
         description: "Crispy baby corn tossed with bell peppers and onions in a spicy, tangy soy sauce.",
         image: "https://i.ytimg.com/vi/Qkqm7kqJX4s/maxresdefault.jpg",
         isVeg: true,
@@ -140,7 +140,7 @@ export const menuData: MenuSection[] = [
       {
         id: "cut-mirchi",
         name: "Cut Mirchi",
-        price: 10.99,
+        price: 11.49,
         description: "Double-fried chili fritters cut into bite-sized pieces.",
         image: "https://i.ytimg.com/vi/m1EcUEjXl3k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAegbi-Y0H38egeDWiKPlCscd4OwA",
         isVeg: true,
@@ -149,7 +149,7 @@ export const menuData: MenuSection[] = [
       {
         id: "egg-bonda",
         name: "Egg Bonda",
-        price: 13.99,
+        price: 14.99,
         description: "Batter-fried hard-boiled eggs seasoned with red chilli powder and spices.",
         image: "https://vismaifood.com/storage/app/uploads/public/133/3e5/ba8/thumb__1200_0_0_0_auto.jpg",
         isVeg: true,
@@ -176,7 +176,7 @@ export const menuData: MenuSection[] = [
       {
         id: "paneer-manchurian",
         name: "Paneer Manchurian",
-        price: 14.49,
+        price: 15.49,
         description: "Golden-fried paneer cubes tossed in a tangy, spicy soy and garlic sauce.",
         image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/paneer-manchurian-recipe.jpg",
         isVeg: true,
@@ -194,7 +194,7 @@ export const menuData: MenuSection[] = [
       {
         id: "gobi-manchurian",
         name: "Gobi Manchurian",
-        price: 13.49,
+        price: 14.49,
         description: "Crispy cauliflower florets tossed in a savory ginger, garlic, and soy-based sauce.",
         image: "https://theyummydelights.com/wp-content/uploads/2020/02/gobi-manchurian-8.jpg",
         isVeg: true,
@@ -204,7 +204,7 @@ export const menuData: MenuSection[] = [
       {
         id: "veg-manchurian",
         name: "Veg Manchurian",
-        price: 12.99,
+        price: 13.99,
         description: "Crispy vegetable balls tossed in a tangy ginger, garlic, and soy sauce.",
         image: "https://thatdeliciousdish.com/wp-content/uploads/2020/09/Dry-Manchurian-Recipe-3.jpg",
         isVeg: true,
@@ -212,7 +212,7 @@ export const menuData: MenuSection[] = [
       {
         id: "crispy-masala-pepper-corn",
         name: "Crispy Masala Pepper Corn",
-        price: 12.99,
+        price: 13.99,
         description: "Crunchy fried corn kernels tossed with black pepper, salt, and zesty Indian spices.",
         image: "https://rakskitchen.net/wp-content/uploads/2022/01/crisp-corn-480x270.jpg",
         isVeg: true,
@@ -222,7 +222,7 @@ export const menuData: MenuSection[] = [
       {
         id: "wok-fried-chili-potatoes",
         name: "Wok Fried Chili Potatoes",
-        price: 10.99,
+        price: 11.49,
         description: "Crispy potato wedges tossed in a spicy, garlic-infused soy glaze with fresh chillies.",
         image: "https://foodtrails25.com/wp-content/uploads/2019/07/fullsizerender_ezy-watermark_26-07-2019_04-29-25pm.jpg",
         isVeg: true,
@@ -265,9 +265,50 @@ export const menuData: MenuSection[] = [
 
       },
       {
+        id: "baby-corn-pepper-fry",
+        name: "Baby Corn Pepper Fry",
+        price: 14.49,
+        description: "Crispy baby corn tossed with cracked black pepper and aromatic spices.",
+        image: "https://www.peddlermart.com/seller_sub_domain/item/item_img687506a36e3041752499875.jpg",
+        isVeg: true,
+        isSpicy: true,
+      },
+      {
+        id: "mirchi-bajji",
+        name: "Mirchi Bajji",
+        price: 10.99,
+        description: "Large green chilies dipped in spiced gram flour batter and deep-fried until golden.",
+        image: "https://i.ytimg.com/vi/m1EcUEjXl3k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAegbi-Y0H38egeDWiKPlCscd4OwA",
+        isVeg: true,
+      },
+      {
+        id: "french-fries",
+        name: "French Fries",
+        price: 5.99,
+        description: "Crispy golden fries seasoned with salt and spices.",
+        image: "https://foodtrails25.com/wp-content/uploads/2019/07/fullsizerender_ezy-watermark_26-07-2019_04-29-25pm.jpg",
+        isVeg: true,
+      },
+      {
+        id: "peanut-masala",
+        name: "Peanut Masala",
+        price: 9.99,
+        description: "Crunchy roasted peanuts tossed with onions, tomatoes and spices.",
+        image: "https://rakskitchen.net/wp-content/uploads/2022/01/crisp-corn-480x270.jpg",
+        isVeg: true,
+      },
+      {
+        id: "peanut-chana-masala",
+        name: "Peanut Chana Masala",
+        price: 11.99,
+        description: "Crispy peanuts and chickpeas tossed in tangy chaat masala.",
+        image: "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
+        isVeg: true,
+      },
+      {
         id: "veg-hakka-noodles",
         name: "Veg Hakka Noodles",
-        price: 13.99,
+        price: 14.99,
         description: "Wok-tossed thin noodles with julienned vegetables, white pepper, and a touch of savory soy sauce.",
         image: "https://pupswithchopsticks.com/wp-content/uploads/hakka-noodles-3.webp",
         isSpicy: true,
@@ -275,7 +316,7 @@ export const menuData: MenuSection[] = [
       {
         id: "Egg-hakka-noodles",
         name: "Egg Hakka Noodles",
-        price: 14.99,
+        price: 15.49,
         description: "Soft noodles wok-tossed with scrambled eggs, crunchy vegetables, and a savory blend of Indo-Chinese spices.",
         image: "https://static.wixstatic.com/media/748bfd_a114f966160649519d9cde104a7eb759~mv2.jpg/v1/fill/w_568,h_758,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/748bfd_a114f966160649519d9cde104a7eb759~mv2.jpg",
         isSpicy: true,
@@ -292,7 +333,7 @@ export const menuData: MenuSection[] = [
       {
         id: "double-green-shrimp",
         name: "Double Green Shrimp",
-        price: 16.99,
+        price: 17.99,
         description: "Shrimp tossed in a vibrant green chili and herb sauce",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2025/07/double-green-shrimph-2048x1152.jpg",
         isPopular: true,
@@ -308,7 +349,7 @@ export const menuData: MenuSection[] = [
       {
         id: "garlic-chicken",
         name: "Garlic Chicken",
-        price: 16.99,
+        price: 17.49,
         description: "Crispy chicken tossed in a fragrant, buttery sauce loaded with roasted garlic and green chillies.",
         image: "https://www.lordbyronskitchen.com/wp-content/uploads/2022/02/2-5.jpg",
         isSpicy: true,
@@ -316,7 +357,7 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-65",
         name: "Chicken 65",
-        price: 15.99,
+        price: 16.99,
         description: "A classic spicy, deep-fried chicken appetizer tempered with curry leaves, mustard seeds, and vibrant red chillies.",
         image: "https://i.ytimg.com/vi/tPc08UtSQc4/maxresdefault.jpg",
         isPopular: true,
@@ -324,7 +365,7 @@ export const menuData: MenuSection[] = [
       {
         id: "tawa-chicken",
         name: "Tawa Chicken",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked on flat tawa with aromatic spices",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2025/02/thava-chicken-400x400.jpg",
         isSpicy: true,
@@ -348,28 +389,28 @@ export const menuData: MenuSection[] = [
       {
         id: "crispy-chicken-fry",
         name: "Crispy Chicken Fry",
-        price: 15.99,
+        price: 16.99,
         description: "Deep-fried chicken tossed in spicy Andhra-style masala",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2023/01/chicken-fry-400x400.jpg",
       },
       {
         id: "shrimp-pakora",
         name: "Shrimp Pakora",
-        price: 17.49,
+        price: 17.99,
         description: "Shrimp fritters coated in seasoned gram flour batter",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/04/chingri_shrimp_pakora-1-400x400.jpg",
       },
       {
         id: "chicken-pakora",
         name: "Chicken Pakora",
-        price: 15.49,
+        price: 16.99,
         description: "Crispy, golden-fried chicken fritters seasoned with traditional Indian spices.",
         image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/03/chicken-65-restaurant-style-500x375.jpg",
       },
       {
         id: "shrimp-pepper-fry",
         name: "Shrimp Pepper Fry",
-        price: 17.49,
+        price: 17.99,
         description: "Shrimp stir-fried with cracked black pepper and spices",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/shrimp-pepper-fry-400x400.jpg",
         isSpicy: true,
@@ -379,14 +420,14 @@ export const menuData: MenuSection[] = [
       {
         id: "chilli-shrimp",
         name: "Chilli Shrimp",
-        price: 17.49,
+        price: 17.99,
         description: "Shrimp tossed with bell peppers, onions and chili sauce",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/chlli-shrimp-400x400.jpg",
       },
       {
         id: "karampodi-chicken",
         name: "Karampodi Chicken",
-        price: 16.99,
+        price: 17.99,
         description: "Chicken tossed with spicy Andhra karampodi masala",
         image: "https://myfoodstory.com/wp-content/uploads/2021/05/Chicken-65-Spicy-Crispy-3.jpg",
         isSpicy: true,
@@ -398,12 +439,12 @@ export const menuData: MenuSection[] = [
         name: "Smokey Chicken",
         price: 15.99,
         description: "Tender chicken infused with a deep charcoal aroma and tossed in a bold, tandoori-style spice rub.",
-        image: "https://boliya.in/wp-content/uploads/2025/05/48.png",
+        image: "https://pupswithchopsticks.com/wp-content/uploads/chicken-manchurian-tnnew.webp",
       },
       {
         id: "karampodi-shrimp",
         name: "Karampodi Shrimp",
-        price: 17.49,
+        price: 17.99,
         description: "Crispy shrimp tossed in a spicy, roasted lentil spice blend (karampodi) with garlic and curry leaves.",
         image: "https://d1w7312wesee68.cloudfront.net/3BryWewiYcS1eeoMUxok-3rOnMrFFn8R60YfAbQDJuo/resize:fit:720:720/plain/s3://toasttab/restaurants/restaurant-278033000000000000/menu/items/4/item-1400000000684508294_1753203471.png",
         isSpicy: true,
@@ -413,7 +454,7 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-pepper-fry",
         name: "Chicken Pepper Fry",
-        price: 15.99,
+        price: 16.99,
         description: "Chicken stir-fried with black pepper and curry leaves",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/CPF-400x400.jpg",
         isSpicy: true,
@@ -430,14 +471,14 @@ export const menuData: MenuSection[] = [
       {
         id: "natukodi-fry",
         name: "NatuKodi Fry",
-        price: 17.99,
+        price: 18.99,
         description: "Country bone-in chicken fried with traditional Andhra spices",
         image: "https://sankrantisg.com/wp-content/uploads/2025/04/Copy-of-NATUKODI-VEPUDU-1.jpg",
       },
       {
         id: "goat-pepper-fry",
         name: "Goat Pepper Fry",
-        price: 21.99,
+        price: 22.49,
         description: "Succulent goat pieces sautéed with crushed black peppercorns, curry leaves, and traditional South Indian spices.",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/Goat-peper-fry-400x400.jpg",
         isPopular: true,
@@ -445,14 +486,14 @@ export const menuData: MenuSection[] = [
       {
         id: "goat-sukkah",
         name: "Goat Sukkah",
-        price: 21.99,
+        price: 22.49,
         description: "A dry, aromatic Mangalorean-style roast featuring tender goat cooked with fresh coconut and a rich blend of roasted spices.",
         image: "https://d1w7312wesee68.cloudfront.net/sanqK8F5lddtz5ti4t9Cd_3-v3LWJ97JJKQEJbBc7bE/resize:fit:720:720/plain/s3://toasttab/restaurants/restaurant-269378000000000000/menu/items/5/item-1400000000028553245_1745209850.jpg",
       },
       {
         id: "goat-veapudu",
-        name: "Goat Veapudu",
-        price: 21.99,
+        name: "Mirpakaya Mutton Vepudu",
+        price: 22.49,
         description: "Tender goat chunks slow-roasted with caramelized onions, aromatic spices, and a heavy dose of black pepper.",
         image: "https://149917319.cdn6.editmysite.com/uploads/1/4/9/9/149917319/5PAC4BACTL3EPOHCMYBOQ3D6.jpeg",
         isPopular: true,
@@ -460,28 +501,28 @@ export const menuData: MenuSection[] = [
       {
         id: "hspl-goat-fry",
         name: "HSPL Goat Fry",
-        price: 21.99,
+        price: 22.49,
         description: "Tender goat chunks slow-roasted with caramelized onions, aromatic spices, and a heavy dose of black pepper.",
-        image: "https://bawarchiindianrestaurant.com/wp-content/uploads/2020/07/goat-pepper-fry.png",
+        image: "https://vandebharatusa.com/wp-content/uploads/2024/10/Goat-Pepper-Fry.jpg",
       },
       {
         id: "apollo-fish",
         name: "Apollo Fish",
-        price: 17.49,
+        price: 17.99,
         description: "Creamy fish where fish fillets tempered with creamy sauce, green chillies, and a touch of yogurt.",
         image: "https://myfoodstory.com/wp-content/uploads/2025/05/Apollo-Fish-4.jpg",
       },
       {
         id: "shrimp-manchurian",
         name: "Shrimp Manchurian",
-        price: 17.49,
+        price: 17.99,
         description: "Crispy shrimp tossed in tangy Manchurian sauce",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPu1O_JkGq-eIH9bv3ZODLB1uP0l12hZssqw&s",
       },
       {
         id: "crispy-andhra-fried-fish",
         name: "Crispy Andhra Masala Fried Fish",
-        price: 17.49,
+        price: 17.99,
         description: "Deep-fried fish coated in spicy Andhra masala",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruexzBRyA-3sWXk06yS4ZmqGtx1bJzdtuRg&s",
         isPopular: true,
@@ -489,14 +530,14 @@ export const menuData: MenuSection[] = [
       {
         id: "chilli-fish",
         name: "Chilli Fish",
-        price: 16.99,
+        price: 17.99,
         description: "Indo chinese style crispy fish tossed with peppers and onions",
         image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/12/fish-manchurian-recipe-chili-fish.jpg",
       },
       {
         id: "chicken-majestic",
         name: "Chicken Majestic",
-        price: 15.99,
+        price: 16.99,
         description: "Nugget type chicken stir-fried in a creamy, spiced yogurt sauce with green chillies",
         image: "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/zxkqrfjo/bbb4b1b9-0ca6-4fed-b390-3f7bd8a580fc",
       },
@@ -510,21 +551,21 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-manchurian",
         name: "Chicken Manchurian",
-        price: 15.99,
+        price: 16.99,
         description: "Golden-fried chicken tossed in a spicy, umami-rich ginger and garlic sauce.",
         image: "https://sinfullyspicy.com/wp-content/uploads/2020/12/3-2.jpg",
       },
       {
         id: "chilli-chicken",
         name: "Chilli Chicken",
-        price: 15.99,
+        price: 16.99,
         description: "Crispy chicken stir-fried with fresh chillies, peppers, and onions in a tangy soy glaze",
         image: "https://pupswithchopsticks.com/wp-content/uploads/chilli-chicken-thumbnail-500x500.jpg",
       },
       {
         id: "mirpakaya-kodi-vepudu",
         name: "Mirpakaya Kodi Vepudu",
-        price: 16.99,
+        price: 17.49,
         description: "Spicy Andhra-style chicken sautéed with green chilies",
         image: "https://theyummydelights.com/wp-content/uploads/2025/08/andhra-style-chicken-fry.jpg",
         isSpicy: true,
@@ -532,7 +573,7 @@ export const menuData: MenuSection[] = [
       {
         id: "andhra-shrimp-fry",
         name: "Andhra Shrimp Fry",
-        price: 17.49,
+        price: 17.99,
         description: "Shrimp stir-fried with spicy Andhra-style masala",
         image: "https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-threeByTwoMediumAt2X.jpg",
         isSpicy: true,
@@ -540,7 +581,7 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-hakka-noodles",
         name: "Chicken Hakka Noodles",
-        price: 15.49,
+        price: 15.99,
         description: "Stir-fried thin noodles tossed with tender chicken strips, crisp vegetables, and savory Indo-Chinese sauces.",
         image: "https://christieathome.com/wp-content/uploads/2021/02/hoisin-chicken-noodles-6.jpg",
       }
@@ -566,7 +607,7 @@ export const menuData: MenuSection[] = [
       {
         id: "fish-tikka",
         name: "Fish Tikka",
-        price: 16.99,
+        price: 17.99,
         description: "Tilapia fish marinated in a spiced yogurt blend and grilled in a tandoor for a smoky finish.",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/fish-tikka-600x600.jpg",
         isPopular: true,
@@ -575,7 +616,7 @@ export const menuData: MenuSection[] = [
       {
         id: "bpot-chicken-kebab",
         name: "BPOT Chicken Kebab",
-        price: 14.99,
+        price: 15.99,
         description: "Flavorful chicken pieces marinated in a signature spice blend and grilled until tender and juicy.",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bpot-kebab-400x400.jpg",
         isSpicy: true,
@@ -583,7 +624,7 @@ export const menuData: MenuSection[] = [
       {
         id: "tandoori-chicken-full",
         name: "Tandoori Chicken Full",
-        price: 21.99,
+        price: 22.99,
         description: "Whole chicken marinated in tandoori spices and charcoal grilled",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/04/The-best-tandoori-chicken-recipe-400x400.jpg",
         isSpicy: true,
@@ -592,7 +633,7 @@ export const menuData: MenuSection[] = [
       {
         id: "tangdi-kabab",
         name: "Tangdi Kabab",
-        price: 14.99,
+        price: 15.99,
         description: "Chicken drumsticks marinated in spices and grilled",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/Tangdi-Kabab3-400x400.jpg",
       },
@@ -618,7 +659,7 @@ export const menuData: MenuSection[] = [
       {
         id: "sheek-kabab",
         name: "Sheek Kabab",
-        price: 16.99,
+        price: 17.49,
         description: "Minced chicken meat kebabs seasoned with herbs and spices",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWBtgvYZ2rMajY5FTqEj7w8CW0pWMcw23NWA&s",
         isSpicy: true,
@@ -626,7 +667,7 @@ export const menuData: MenuSection[] = [
       {
         id: "tandoori-chicken-half",
         name: "Tandoori Chicken Half",
-        price: 13.99,
+        price: 14.99,
         description: "Half portion of tandoori chicken grilled in clay oven",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/indian-food-by-sat-bhatti-prt-1558835-400x400.jpg",
         isSpicy: true,
@@ -635,7 +676,7 @@ export const menuData: MenuSection[] = [
       {
         id: "murg-malai-kabab",
         name: "Murg Malai Kabab",
-        price: 16.99,
+        price: 17.49,
         description: "Creamy chicken kebabs marinated with malai and spices",
         image: "https://i.ytimg.com/vi/wCPBtm4qRMk/maxresdefault.jpg",
         isPopular: true,
@@ -643,14 +684,14 @@ export const menuData: MenuSection[] = [
       {
         id: "hariyali-chicken-kabab",
         name: "Hariyali Chicken Kabab",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken kebabs marinated with mint, coriander and herbs",
         image: "https://vaya.in/recipes/wp-content/uploads/2019/01/Hariyali-Chicken-Kabab.jpg",
       },
       {
         id: "chicken-tikka",
         name: "Chicken Tikka",
-        price: 16.99,
+        price: 17.49,
         description: "Boneless chicken cubes marinated and grilled in tandoor",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/pexels-alberta-studios-9738994-scaled-e1648550492249-400x400.jpg",
         isSpicy: true,
@@ -659,7 +700,7 @@ export const menuData: MenuSection[] = [
       {
         id: "nj-tikka",
         name: "NJ Tikka",
-        price: 16.99,
+        price: 17.49,
         description: "Juicy boneless chicken chunks marinated and grilled in tandoor without any added artificial food coloring for a natural, rustic finish.",
         image: "https://i.ytimg.com/vi/pt2Q5Wbz1dU/maxresdefault.jpg",
       }
@@ -677,7 +718,7 @@ export const menuData: MenuSection[] = [
       {
         id: "saag-aloo",
         name: "Saag Aloo",
-        price: 14.49,
+        price: 14.99,
         description: "Potatoes cooked with spinach and mild Indian spices",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2023/08/Saag-Aloo-4-1024x1536-1-400x400.jpg",
         isVeg: true,
@@ -685,7 +726,7 @@ export const menuData: MenuSection[] = [
       {
         id: "anda-curry",
         name: "Anda Curry (Egg Masala)",
-        price: 15.99,
+        price: 16.49,
         description: "Boiled eggs cooked in a spiced onion tomato gravy",
         image: "https://images.services.kitchenstories.io/EPAs3NYa-v4uK2NumQYwhJ4Cd58=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/R2899-photo-final-3x4.jpg",
         isVeg: false,
@@ -703,7 +744,7 @@ export const menuData: MenuSection[] = [
       {
         id: "malai-kofta",
         name: "Malai Kofta",
-        price: 16.49,
+        price: 16.99,
         description: "Fried vegetable dumplings in rich creamy gravy",
         image: "https://www.chompslurrpburp.com/wp-content/uploads/2020/05/malai-kofta-1-855x1024.jpg",
         isVeg: true,
@@ -712,7 +753,7 @@ export const menuData: MenuSection[] = [
       {
         id: "mixed-veg-kadai",
         name: "Mixed Vegetable Kadai Masala",
-        price: 14.99,
+        price: 15.49,
         description: "Fresh vegetables sautéed with bell peppers in a thick, spicy tomato gravy and ground kadai spices.",
         image: "https://www.yummyoyummy.com/wp-content/uploads/2015/08/Kadai-vegetables3.jpg",
         isVeg: true,
@@ -731,7 +772,7 @@ export const menuData: MenuSection[] = [
       {
         id: "palak-paneer",
         name: "Palak Paneer",
-        price: 16.49,
+        price: 16.99,
         description: "Paneer cubes cooked in smooth spinach gravy",
         image: "https://www.indianveggiedelight.com/wp-content/uploads/2017/10/palak-paneer-recipe-featured.jpg",
         isVeg: true,
@@ -739,7 +780,7 @@ export const menuData: MenuSection[] = [
       {
         id: "navarathan-kurma",
         name: "Navarathan Kurma",
-        price: 14.99,
+        price: 15.49,
         description: "Mixed vegetables cooked in mildly spiced coconut gravy",
         image: "https://harekrishnarecipes.com/wp-content/uploads/2024/07/Navratan-Korma.webp",
         isVeg: true,
@@ -747,7 +788,7 @@ export const menuData: MenuSection[] = [
       {
         id: "paneer-tikka-masala",
         name: "Paneer Tikka Masala",
-        price: 16.49,
+        price: 16.99,
         description: "Paneer cooked in rich tomato onion gravy with bell peppers",
         image: "https://static.toiimg.com/thumb/54408184.cms?width=1200&height=900",
         isVeg: true,
@@ -757,7 +798,7 @@ export const menuData: MenuSection[] = [
       {
         id: "kadai-paneer",
         name: "Kadai Paneer",
-        price: 16.49,
+        price: 16.99,
         description: "Paneer cooked with onions, peppers and kadai spices",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/Best-Kadai-Paneer-Recipe-400x400.jpg",
         isVeg: true,
@@ -766,7 +807,7 @@ export const menuData: MenuSection[] = [
       {
         id: "paneer-butter-masala",
         name: "Paneer Butter Masala",
-        price: 16.49,
+        price: 16.99,
         description: "Paneer cooked in rich buttery tomato gravy",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/kalyani-akella-vgTntT8PmIM-unsplash-scaled-e1648546124181-400x400.jpg",
         isVeg: true,
@@ -775,7 +816,7 @@ export const menuData: MenuSection[] = [
       {
         id: "punjabi-chana-masala",
         name: "Punjabi Chana Masala",
-        price: 14.99,
+        price: 15.49,
         description: "Chickpeas cooked in tangy Punjabi style gravy",
         image: "https://minimalistbaker.com/wp-content/uploads/2016/02/AMAZING-Chana-Masala-made-in-1-Pot-So-healthy-flavorful-and-delicious-vegan-glutenfree-chanamasala-recipe-minimalistbaker.jpg",
         isVeg: true,
@@ -783,7 +824,7 @@ export const menuData: MenuSection[] = [
       {
         id: "bagara-baingan",
         name: "Bagara Baingan",
-        price: 14.99,
+        price: 15.49,
         description: "Baby eggplants cooked in rich peanut sesame gravy",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/hydrabadi-bagare-baingan-recipe-400x400.jpg",
         isVeg: true,
@@ -792,7 +833,7 @@ export const menuData: MenuSection[] = [
       {
         id: "tadka-dal",
         name: "Tadka Dal",
-        price: 13.99,
+        price: 14.49,
         description: "Yellow lentils tempered with garlic and spices",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/vd-photography-WM0qTXnH41Q-unsplash-scaled-e1649079655266-400x400.jpg",
         isVeg: true,
@@ -816,14 +857,14 @@ export const menuData: MenuSection[] = [
       {
         id: "shrimp-curry",
         name: "Shrimp Curry",
-        price: 16.99,
+        price: 17.49,
         description: "Shrimp simmered in traditional Indian curry sauce",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/03/shrimp-curry-e1649143892830-400x400.jpeg",
       },
       {
         id: "gongura-chicken",
         name: "Gongura Chicken",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked with tangy gongura leaves and spices",
         image: "https://images.archanaskitchen.com/images/recipes/indian/main-course/indian-non-veg-recipes/chicken-recipes/Ghongura_Chicken_Curry_Recipe_2_905c6edb48.jpg",
         isSpicy: true,
@@ -831,7 +872,7 @@ export const menuData: MenuSection[] = [
       {
         id: "hyderabadi-murg-masala",
         name: "Hyderabadi Murg Masala",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked in rich Hyderabadi-style masala gravy",
         image: "https://www.cookwithkushi.com/wp-content/uploads/2025/06/hyderabadi_chicken_masala_curry.jpg",
         isPopular: true,
@@ -846,14 +887,14 @@ export const menuData: MenuSection[] = [
       {
         id: "kadai-chicken",
         name: "Kadai Chicken",
-        price: 16.99,
+        price: 17.49,
         description: "Tender chicken pieces stir-fried with bell peppers and onions in a spicy, flavorful tomato-based gravy.",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoEiCzZvvJfYvMR_uUqxpefbaE62fZipFWqA&s",
       },
       {
         id: "natukodi-chicken-curry",
         name: "Natukodi Chicken Curry",
-        price: 17.49,
+        price: 17.99,
         description: "Country chicken slow-cooked in traditional spices [bone-in]",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5n5fqbG5em8uVdrcDrM80E0vZkHpswEOjA&s",
         isSpicy: true,
@@ -861,14 +902,14 @@ export const menuData: MenuSection[] = [
       {
         id: "fish-curry",
         name: "Fish Curry",
-        price: 16.99,
+        price: 17.49,
         description: "Fresh fish simmered in a tangy and aromatic gravy made with tamarind, tomatoes, and traditional spices.",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBCQdCse12sMbtDfJUEupQG59gKLUwlHh-og&s",
       },
       {
         id: "shrimp-vindaloo",
         name: "Shrimp Vindaloo",
-        price: 16.99,
+        price: 17.49,
         description: "Shrimp cooked in spicy and tangy vindaloo sauce",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlryJzyvbqRp1JkaN2oIw1cisCu-zcKcj02Q&s",
         isSpicy: true,
@@ -883,21 +924,21 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-mandhakini",
         name: "Chicken Mandhakini",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked in rich creamy house-style gravy with crushed boiled eggs",
         image: "https://d1w7312wesee68.cloudfront.net/aLrvVQ8z7cxr7PIADiSDQMz7lxTPy3wiPUlWsZ7Rqng/resize:fit:720:720/plain/s3://toasttab/restaurants/restaurant-167582000000000000/menu/images/item-208ebd2b-c1a5-49fb-94cb-04164446a299.jpg",
       },
       {
         id: "hariyali-chicken-masala",
         name: "Hariyali Chicken Masala",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked in mint and coriander based gravy",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUK4KgACdLflxR1qfLNVG3ghEL67nhlyR5tw&s",
       },
       {
         id: "chicken-chettinadu",
         name: "Chicken Chettinadu",
-        price: 16.99,
+        price: 17.49,
         description: "South Indian chicken curry with roasted spices",
         image: "https://swatisani.net/kitchen/wp-content/uploads/2015/10/IMG_9350.jpg",
         isPopular: true,
@@ -905,7 +946,7 @@ export const menuData: MenuSection[] = [
       {
         id: "methi-chicken",
         name: "Methi Chicken",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked with fenugreek leaves and spices",
         image: "https://pipingpotcurry.com/wp-content/uploads/2023/11/Methi-Chicken-Piping-Pot-Curry-3.jpg",
         isPopular: true,
@@ -913,7 +954,7 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-vindaloo",
         name: "Chicken Vindaloo",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked in spicy and tangy vindaloo sauce",
         image: "https://www.mabmadefood.com/wp-content/uploads/2011/11/vindaloo.jpg",
         isSpicy: true,
@@ -921,14 +962,14 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-kurma",
         name: "Chicken Kurma",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken cooked in mildly spiced coconut gravy",
         image: "https://www.sharmispassions.com/wp-content/uploads/2014/05/chicken-kurma4.jpg",
       },
       {
         id: "chicken-tikka-masala",
         name: "Chicken Tikka Masala",
-        price: 16.99,
+        price: 17.49,
         description: "Grilled chicken cooked in creamy tomato gravy",
         image: "https://cdn.britannica.com/40/177340-050-2F922898/Chicken-tikka-masala.jpg",
         isPopular: true,
@@ -936,7 +977,7 @@ export const menuData: MenuSection[] = [
       {
         id: "butter-chicken",
         name: "Butter Chicken",
-        price: 16.49,
+        price: 17.49,
         description: "Classic creamy tomato-based chicken curry",
         image: "https://ministryofcurry.com/wp-content/uploads/2025/04/chicken-tikka-masala_-5.jpg",
         isPopular: true,
@@ -944,7 +985,7 @@ export const menuData: MenuSection[] = [
       {
         id: "hspl-chicken-curry",
         name: "HSPL Chicken Curry",
-        price: 16.99,
+        price: 17.49,
         description: "A house-special chicken curry slow-cooked in a rich, aromatic gravy featuring a signature blend of ground spices and herbs.",
         image: "https://i0.wp.com/www.foodfashionparty.com/wp-content/uploads/2023/08/everyday-chicken-curry-1.jpg?ssl=1",
         isPopular: true,
@@ -952,7 +993,7 @@ export const menuData: MenuSection[] = [
       {
         id: "hspl-goat-curry",
         name: "HSPL Goat Curry",
-        price: 20.99,
+        price: 21.49,
         description: "A house-special goat curry slow-cooked in a rich, aromatic gravy featuring a signature blend of ground spices and herbs.",
         image: "https://carameltintedlife.com/wp-content/uploads/2021/09/karahi-gosht-1-3-1.jpg",
         isPopular: true,
@@ -960,28 +1001,28 @@ export const menuData: MenuSection[] = [
       {
         id: "goat-chettinadu",
         name: "Goat Chettinadu",
-        price: 20.99,
+        price: 21.49,
         description: "Tender goat in a fiery South Indian gravy featuring roasted spices, coconut, and black pepper.",
         image: "https://i.ytimg.com/vi/EchoYJk-dBI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAyEFXYo237lJuDCngUMci9_w_DxA",
       },
       {
         id: "goat-kheema",
         name: "Goat Kheema",
-        price: 20.99,
+        price: 21.49,
         description: "Finely minced goat meat slow-cooked with aromatic spices, onions, and tomatoes for a rich, savory finish.",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK8RPOoKeHDTB0f4t6UP9CEmgDst-KTb_g4w&s",
       },
       {
         id: "goat-kurma",
         name: "Goat Kurma",
-        price: 20.99,
+        price: 21.49,
         description: "Tender goat simmered in a creamy, mild gravy of coconut, cashews, and light spices.",
         image: "https://ruchipalace.com/wp-content/uploads/2022/06/goat-korma.jpeg",
       },
       {
         id: "goat-rogan-josh",
         name: "Goat Rogan Josh",
-        price: 20.99,
+        price: 21.49,
         description: "Tender goat slow-cooked in a rich, aromatic red gravy flavored with Kashmiri chilies and ginger.",
         image: "https://d1w7312wesee68.cloudfront.net/MpIkj-e2yGzdFUYnMIxDWukN7TwTamoDUcH6wrIbq9U/resize:fit:720:720/plain/s3://toasttab/restaurants/restaurant-126763000000000000/menu/images/item-c0c62c49-265d-41c0-8cc0-b8ca1458b761.jpg",
         isPopular: true,
@@ -989,7 +1030,7 @@ export const menuData: MenuSection[] = [
       {
         id: "goat-sagwala",
         name: "Goat Sagwala",
-        price: 20.99,
+        price: 21.49,
         description: "Tender goat pieces slow-cooked in a nutrient-rich, creamy spinach gravy with garlic and mild spices.",
         image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFiK5Fo7WmjkuqTMC2IzwjBWXBcYnAl-4CIg&s",
         isPopular: true,
@@ -997,14 +1038,14 @@ export const menuData: MenuSection[] = [
       {
         id: "goat-vindaloo",
         name: "Goat Vindaloo",
-        price: 20.99,
+        price: 21.49,
         description: "Succulent goat and potatoes in a fiery, tangy gravy made with vinegar and red chilies.",
         image: "https://www.cubesnjuliennes.com/wp-content/uploads/2023/10/Lamb-Vindaloo-Recipe.jpg",
       },
       {
         id: "gongura-goat-curry",
         name: "Gongura Goat Curry",
-        price: 20.99,
+        price: 21.49,
         description: "Tender goat simmered in a tangy, spicy gravy featuring sorrel leaves and Andhra spices.",
         image: "https://hinzcooking.com/wp-content/uploads/2022/12/lamb-saag.jpg",
         isPopular: true,
@@ -1012,16 +1053,24 @@ export const menuData: MenuSection[] = [
       {
         id: "goat-kadai",
         name: "Goat Kadai",
-        price: 20.99,
+        price: 21.49,
         description: "Tender goat stir-fried with bell peppers and onions in a spicy, thick tomato gravy.",
         image: "https://rookiewithacookie.com/wp-content/uploads/2020/03/IMG_2108-1.jpg",
       },
       {
         id: "goat-mandhakini",
         name: "Goat Mandhakini",
-        price: 20.99,
+        price: 21.49,
         description: "Goat cooked in rich creamy house-style gravy with crushed boiled eggs.",
-        image: "https://foodistaan.us/irving/wp-content/uploads/sites/8/2024/05/kadaigoat.jpg",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVLUsh6nMDohxikI_w8-lZOpl6Lq6KYGivQw&s",
+      },
+      {
+        id: "pepper-chicken-curry",
+        name: "Pepper Chicken Curry",
+        price: 16.99,
+        description: "Tender chicken cooked in a bold black pepper gravy with aromatic spices.",
+        image: "https://www.cookwithkushi.com/wp-content/uploads/2025/06/pepper_chicken_kali_mirch_recipe-500x500.jpg",
+        isSpicy: true,
       }
     ],
   },
@@ -1035,7 +1084,7 @@ export const menuData: MenuSection[] = [
       {
         id: "plain-naan",
         name: "Plain Naan",
-        price: 3.99,
+        price: 4.49,
         description: "Soft traditional tandoor-baked bread",
         image: "https://static.toiimg.com/thumb/53338316.cms?width=1200&height=900",
         isVeg: true,
@@ -1043,7 +1092,7 @@ export const menuData: MenuSection[] = [
       {
         id: "butter-naan",
         name: "Butter Naan",
-        price: 3.99,
+        price: 4.99,
         description: "Classic naan brushed with butter",
         image: "https://currybliss.com/cdn/shop/products/plain-naan-currybliss.png?v=1590077332",
         isVeg: true,
@@ -1052,7 +1101,7 @@ export const menuData: MenuSection[] = [
       {
         id: "garlic-basil-naan",
         name: "Garlic Basil Naan",
-        price: 4.49,
+        price: 4.99,
         description: "Naan topped with fresh garlic and herbs",
         image: "https://foodess.com/wp-content/uploads/2023/02/Butter-Naan-3.jpg",
         isVeg: true,
@@ -1061,7 +1110,7 @@ export const menuData: MenuSection[] = [
       {
         id: "onion-naan",
         name: "Onion Naan",
-        price: 4.49,
+        price: 4.99,
         description: "Naan topped with onions and aromatic spices",
         image: "https://151672951.cdn6.editmysite.com/uploads/1/5/1/6/151672951/I3YX4JY5B6GRPOJ4K5XGPBEM.jpeg",
         isVeg: true,
@@ -1071,14 +1120,14 @@ export const menuData: MenuSection[] = [
         name: "Chilli Garlic Naan",
         price: 4.99,
         description: "Spicy naan topped with garlic and green chilies",
-        image: "https://tasteofeverestnorwalk.com/wp-content/uploads/2024/02/Chili-Garlic-Naan.jpg",
+        image: "https://rehalsdivine.com.au/cdn/shop/files/garlic_chili_naan.jpg?v=1742796951",
         isVeg: true,
         isSpicy: true,
       },
       {
         id: "cheese-kulcha",
         name: "Cheese Kulcha",
-        price: 4.99,
+        price: 5.49,
         description: "Stuffed kulcha filled with melted cheese",
         image: "https://marhabagold.com/wp-content/uploads/2023/06/Plain-Naan-1.jpg",
         isVeg: true,
@@ -1086,28 +1135,20 @@ export const menuData: MenuSection[] = [
       {
         id: "bread-basket",
         name: "Bread Basket",
-        price: 13.99,
+        price: 15.99,
         description: "Assorted naans: butter naan, garlic naan, onion naan and cheese kulcha.",
-        image: "https://masakaliottawa.ca/wp-content/uploads/2023/11/Plain-Naan.jpg",
+        image: "https://adm.rangoolirestaurant.com//Dynamic/Products/283/Images/DL9A9847.jpg",
         isVeg: true,
         isPopular: true,
       },
       {
         id: "tandoori-roti",
-        name: "Tandoori Roti",
-        price: 3.99,
+        name: "Tandoori Roti (W Butter/No Butter)",
+        price: 4.99,
         description: "Whole wheat roti cooked in the tandoor",
         image: "https://s3.amazonaws.com/files.showmethecurry.com/vidimages/Toaster_Tandoori_Roti_Photo.jpg",
         isVeg: true,
-      },
-      {
-        id: "butter-roti",
-        name: "Butter Roti",
-        price: 3.99,
-        description: "Tandoori roti topped with butter",
-        image: "https://s3.amazonaws.com/files.showmethecurry.com/vidimages/Toaster_Tandoori_Roti_Photo.jpg",
-        isVeg: true,
-      },
+      }
     ],
   },
   // =========================
@@ -1121,7 +1162,7 @@ export const menuData: MenuSection[] = [
       {
         id: "hyderabadi-veg-dum-biryani",
         name: "Hyderabadi Vegetable Dum Biryani",
-        price: 13.49,
+        price: 13.99,
         description: "Aromatic basmati rice cooked with mixed vegetables and spices",
         image: "https://kannanskitchen.com/wp-content/uploads/2021/04/DSC_1083-500x500.jpg",
         isVeg: true,
@@ -1146,7 +1187,7 @@ export const menuData: MenuSection[] = [
       {
         id: "guthivankaya-biryani",
         name: "Guthivankaya Biryani",
-        price: 14.99,
+        price: 15.49,
         description: "Stuffed baby eggplant cooked with aromatic biryani rice",
         image: "https://i.ytimg.com/vi/saP0Oej25SU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAGf2x1ubyGAueg8qUeXgXAoOFTiw",
         isVeg: true,
@@ -1162,7 +1203,7 @@ export const menuData: MenuSection[] = [
       {
         id: "hyderabadi-chicken-dum-biryani",
         name: "Hyderabadi Chicken Dum Biryani",
-        price: 16.49,
+        price: 16.99,
         description: "Classic Hyderabadi dum biryani cooked with tender chicken",
         image: "https://authenticroyal.com/wp-content/uploads/2024/10/royal-rice-may-220461.jpg",
         isSpicy: true,
@@ -1180,7 +1221,7 @@ export const menuData: MenuSection[] = [
       {
         id: "bpot-special-boneless-chicken-biryani",
         name: "BPOT Special Boneless Chicken Biryani",
-        price: 16.99,
+        price: 17.49,
         description: "House special biryani made with boneless chicken pieces",
         image: "https://139384906.cdn6.editmysite.com/uploads/1/3/9/3/139384906/22KOQT26UHCN7ZX5KNGZISFI.jpeg",
         isSpicy: true,
@@ -1196,7 +1237,7 @@ export const menuData: MenuSection[] = [
       {
         id: "natukodi-chicken-biryani",
         name: "Natukodi Chicken Biryani",
-        price: 17.49,
+        price: 17.99,
         description: "Country chicken biryani cooked with rustic Andhra spices",
         image: "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/bqq6zy32qs1omjryrg9u",
         isSpicy: true,
@@ -1212,7 +1253,7 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-roast-biryani",
         name: "Chicken Roast Biryani",
-        price: 15.99,
+        price: 16.49,
         description: "Flavorful biryani served with spicy roasted chicken",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2022/12/chicken-fry-piece-biryani-1-400x400.webp",
         isSpicy: true,
@@ -1230,7 +1271,7 @@ export const menuData: MenuSection[] = [
       {
         id: "goat-roast-biryani",
         name: "Goat Roast Biryani",
-        price: 18.99,
+        price: 19.49,
         description: "Aromatic biryani topped with spicy roasted goat pieces",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2023/09/Avakaya-Goat-Biryani-400x375.jpg",
         isSpicy: true,
@@ -1239,7 +1280,7 @@ export const menuData: MenuSection[] = [
       {
         id: "avakaya-chicken-biryani",
         name: "Avakaya Chicken Biryani",
-        price: 16.99,
+        price: 17.49,
         description: "Chicken biryani infused with spicy mango pickle flavor",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2023/09/avakaya-chk-400x400.jpg",
         isSpicy: true,
@@ -1254,10 +1295,10 @@ export const menuData: MenuSection[] = [
         isPopular: true,
       },
       {
-        id: "chicken pulav",
-        name: "Chicken Pulav",
-        price: 15.49,
-        description: "Fragrant basmati rice cooked with tender chicken, mild spices, and fresh herbs in a single pot.",
+        id: "pachi-mirpakaya-kodi-pulav",
+        name: "Pachi Mirpakaya Kodi Pulav",
+        price: 15.99,
+        description: "Spicy chicken pulav cooked with fresh green chilies and aromatic spices",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2025/04/Chicken-Pulav-400x400.jpeg",
       }
 
@@ -1290,7 +1331,7 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-over-rice",
         name: "Chicken Over Rice",
-        price: 11.99,
+        price: 9.99,
         description: "Classic NYC-style chicken over rice with marinated, grilled chicken served on seasoned basmati rice, topped with fresh lettuce, tomato, pita bread and drizzled with signature white sauce and hot sauce.",
         image: "https://www.hungrypaprikas.com/wp-content/uploads/2025/01/Halal-Cart-Chicken-2.jpg",
         isPopular: true,
@@ -1298,7 +1339,7 @@ export const menuData: MenuSection[] = [
       {
         id: "veg-fried-rice",
         name: "Vegetable Fried Rice",
-        price: 12.99,
+        price: 13.49,
         description: "Wok-tossed basmati rice with crunchy vegetables, soy sauce, and aromatic spices.",
         image: "https://nishkitchen.com/wp-content/uploads/2020/01/Chinese-Veg-Fried-Rice-1B.jpg",
         isVeg: true,
@@ -1306,7 +1347,7 @@ export const menuData: MenuSection[] = [
       {
         id: "Egg-fried-rice",
         name: "Egg Fried Rice",
-        price: 14.49,
+        price: 14.99,
         description: "Rice wok-tossed with fluffy scrambled eggs, crisp vegetables, and a savory soy-garlic seasoning.",
         image: "https://twokooksinthekitchen.com/wp-content/uploads/2022/07/Chinese-egg-fried-rice.jpg",
         isPopular: true,
@@ -1314,21 +1355,21 @@ export const menuData: MenuSection[] = [
       {
         id: "chicken-fried-rice",
         name: "Chicken Fried Rice",
-        price: 15.49,
+        price: 15.99,
         description: "Savory stir-fried rice loaded with seasoned chicken, golden eggs, and crisp vegetables, finished with a hint of toasted sesame and soy.",
         image: "https://iamhomesteader.com/wp-content/uploads/2025/05/Bang-Bang-Chicken-Fried-Rice-2.jpg",
       },
       {
         id: "shrimp-fried-rice",
         name: "Shrimp Fried Rice",
-        price: 15.49,
+        price: 15.99,
         description: "Fried rice cooked with succulent shrimp",
         image: "https://twoplaidaprons.com/wp-content/uploads/2022/05/shrimp-fried-rice-on-plate-thumbnail.jpg",
       },
       {
         id: "bagara-rice-goat",
         name: "Bagara Rice Goat",
-        price: 17.99,
+        price: 19.49,
         description: "Aromatic Hyderabadi rice served with goat curry",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-1-400x400.jpg",
         isPopular: true,
@@ -1336,14 +1377,14 @@ export const menuData: MenuSection[] = [
       {
         id: "bagara-rice-chicken",
         name: "Bagara Rice Chicken",
-        price: 15.99,
+        price: 17.49,
         description: "Aromatic Hyderabadi rice served with chicken curry",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-2-400x400.jpg",
       },
       {
         id: "bagara-rice-veg",
         name: "Bagara Rice Veg",
-        price: 13.99,
+        price: 14.99,
         description: "Aromatic Hyderabadi rice served with vegetable curry",
         image: "https://biryanipoteastwindsor.com/wp-content/uploads/2024/01/bagara-rice-2-400x400.jpg",
         isVeg: true,
@@ -1360,7 +1401,7 @@ export const menuData: MenuSection[] = [
       {
         id: "jeera-rice",
         name: "Jeera Rice",
-        price: 7.99,
+        price: 9.99,
         description: "Basmati rice tempered with cumin seeds",
         image: "https://lentillovingfamily.com/wp-content/uploads/2025/08/jeera-rice-1.jpg",
         isVeg: true,
@@ -1377,7 +1418,7 @@ export const menuData: MenuSection[] = [
       {
         id: "masala-rice",
         name: "Masala Rice",
-        price: 7.99,
+        price: 8.99,
         description: "Hyderabadi dum biryani rice flavored with traditional spices",
         image: "https://eatsbythebeach.com/wp-content/uploads/2019/06/Basic-Biryani-Rice-1-Eats-By-The-Beach.jpg",
         isVeg: true,
@@ -1385,7 +1426,7 @@ export const menuData: MenuSection[] = [
       {
         id: "plain-rice",
         name: "Plain Rice",
-        price: 2.99,
+        price: 3.99,
         description: "Steamed basmati rice",
         image: "https://www.onceuponachef.com/images/2013/12/perfect-basmati-rice.jpg",
         isVeg: true,
@@ -1421,7 +1462,7 @@ export const menuData: MenuSection[] = [
       {
         id: "double-ka-meetha",
         name: "Double Ka Meetha",
-        price: 5.99,
+        price: 5.49,
         description: "Hyderabadi dessert made with bread, milk and dry fruits",
         image: "https://www.blendwithspices.com/wp-content/uploads/2016/06/double-ka-meetha-recipe-500x375.jpg",
         isVeg: true,
@@ -1482,7 +1523,6 @@ export const menuData: MenuSection[] = [
         isVeg: true,
         isPopular: true,
       },
-
       {
         id: "chocolate-brownie-sundae",
         name: "Chocolate Brownie Sundae",
@@ -1491,32 +1531,30 @@ export const menuData: MenuSection[] = [
         image: "https://thumbs.dreamstime.com/b/homemade-double-chocolate-brownies-sundae-vanilla-ice-cream-top-double-chocolate-brownies-sundae-vanilla-ice-cream-152358954.jpg",
         isVeg: true,
         isPopular: true,
+      },
+      {
+        id: "walnut-fig-halwa",
+        name: "Walnut-Fig Halwa",
+        price: 5.99,
+        description: "Rich Indian halwa prepared with walnuts and dried figs, slow-cooked in ghee.",
+        image: "https://www.oorla.in/cdn/shop/files/Kozhikode_Black_Halwa_2_12cd5818-3d8f-4255-8384-d6ef4b4e6833.jpg?v=1750249732",
+        isVeg: true,
+      },
+            {
+        id: "walnut-fig-halwa-ice-cream",
+        name: "Walnut-Fig Halwa with Ice Cream",
+        price: 7.99,
+        description: "Rich Indian halwa prepared with walnuts and dried figs, slow-cooked in ghee.",
+        image: "https://i.ndtvimg.com/i/2017-10/halwa-recipes_620x330_71508136622.jpg",
+        isVeg: true,
       }
-
     ],
   },
   {
-    id: "drinks-tea",
-    title: "Drinks & Tea",
-    subtitle: "Refreshing beverages & traditional teas",
+    id: "drinks",
+    title: "Drinks",
+    subtitle: "Refreshing beverages & coolers",
     items: [
-      {
-        id: "ginger-tea",
-        name: "Ginger Tea",
-        price: 1.99,
-        description: "Hot Indian-style tea brewed with fresh ginger.",
-        image: "https://www.sharmispassions.com/wp-content/uploads/2012/12/cardamom-tea4-500x500.jpg",
-        isVeg: true,
-      },
-
-      {
-        id: "cardamom-tea",
-        name: "Cardamom (Elaichi) Tea",
-        price: 1.99,
-        description: "Traditional Indian tea infused with aromatic cardamom.",
-        image: "https://www.sharmispassions.com/wp-content/uploads/2012/12/cardamom-tea4-500x500.jpg",
-        isVeg: true,
-      },
       {
         id: "sweet-lassi",
         name: "Sweet Lassi",
@@ -1529,7 +1567,7 @@ export const menuData: MenuSection[] = [
       {
         id: "salt-lassi",
         name: "Salt Lassi",
-        price: 3.99,
+        price: 4.49,
         description: "Refreshing yogurt drink seasoned with salt and spices",
         image: "https://www.salmadinani.com/wp-content/uploads/2016/05/Simple-Sweet-Lassi.jpg",
         isVeg: true,
@@ -1543,6 +1581,30 @@ export const menuData: MenuSection[] = [
         isVeg: true,
         isPopular: true,
       },
+      {
+  id: "rabidi_falooda",
+  name: "Rabidi Falooda",
+  price: 6.99,
+  description: "Rich condensed milk-based Falooda with vermicelli, basil seeds, and ice cream.",
+  image: "https://www.renudalal.com/storage/recipies/140/royal-falooda.jpg",
+  isVeg: true,
+},
+{
+  id: "rose_falooda",
+  name: "Rose Falooda",
+  price: 6.99,
+  description: "Classic rose-flavored milk drink layered with basil seeds, vermicelli, and ice cream.",
+  image: "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/falooda-faluda-recipe.jpg",
+  isVeg: true,
+},
+{
+  id: "kesar_pista_falooda",
+  name: "Kesar Pista Falooda",
+  price: 6.99,
+  description: "Saffron and pistachio flavored Falooda with vermicelli, basil seeds, and ice cream.",
+  image: "https://c.ndtvimg.com/2022-03/9vbjtis_rabri_625x300_11_March_22.jpg",
+  isVeg: true,
+},
       {
         id: "coke",
         name: "Coke",
@@ -1588,7 +1650,7 @@ export const menuData: MenuSection[] = [
       {
         id: "fresh-lime-soda",
         name: "Fresh Lime Soda",
-        price: 3.99,
+        price: 4.49,
         description: "Fresh lime juice mixed with soda",
         image: "https://soufflebombay.com/wp-content/uploads/2023/01/Homemade-Lime-Soda-1.jpg",
         isVeg: true,
@@ -1612,7 +1674,7 @@ export const menuData: MenuSection[] = [
       {
         id: "veg-thali",
         name: "Veg Thali",
-        price: 13.99,
+        price: 14.99,
         description: "You will get 2 Veg appetizers, 1 veg curry, Dal tadka, Veg Dum Biryani, Naan, dessert, Papad, Raita and Mirchi-ka-salan",
         image: "https://eastindianrecipes.net/wp-content/uploads/2022/09/How-to-Make-North-Indian-Thali-Vegetarian-7.jpg",
         isVeg: true,
@@ -1621,7 +1683,7 @@ export const menuData: MenuSection[] = [
       {
         id: "nonveg-thali",
         name: "Non-Veg Thali",
-        price: 16.99,
+        price: 17.99,
         description: "You will get 1 Veg appetizer, 1 Chicken Appetizer, 1 chicken curry, Dal tadka, Chicken Dum Biryani, Naan, dessert, Papad, Raita and Mirchi-ka-salan",
         image: "https://eastindianrecipes.net/wp-content/uploads/2022/09/How-to-Make-North-Indian-Thali-Vegetarian-7.jpg",
         isPopular: true,

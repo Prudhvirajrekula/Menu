@@ -41,7 +41,7 @@ export const MenuNav = ({ sections, activeSection, onSectionClick }: MenuNavProp
   }, [activeSection, sectionIds]);
 
   return (
-    <nav className="sticky top-0 z-50 bg-background/95 backdrop-blur-md border-b border-border">
+    <nav className="sticky top-0 z-50 bg-background will-change-transform border-b border-border">
       <div className="container mx-auto px-4">
         <div className="relative">
           {/* subtle edge fades */}
